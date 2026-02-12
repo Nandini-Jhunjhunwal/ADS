@@ -1,11 +1,5 @@
 # 📘 Day 1 – Sliding Window & Two Pointer Pattern
 
-## 📌 Topics Covered
-- Two Pointers  
-- Fixed Size Sliding Window  
-- Variable Size Sliding Window  
-- Kadane’s Algorithm  
-
 ---
 
 ## 📊 Problems Overview
@@ -18,23 +12,6 @@
 | SlidingWindowTwoPointers.java | Expands & shrinks window based on condition | Variable Sliding Window | 3 – Longest Substring Without Repeating Characters, 76 – Minimum Window Substring, 209 – Min Size Subarray Sum |
 | VariableSizeSlidingWindow.java | Finds longest/shortest subarray satisfying constraint | Variable Size Window | 1004 – Max Consecutive Ones III, 1493 – Longest Subarray of 1s |
 | VariableSizeSubarray.java | Counts/validates subarrays based on sum/condition | Sliding Window + Prefix | 560 – Subarray Sum Equals K, 930 – Binary Subarrays With Sum, 1248 – Nice Subarrays |
-
----
-
-## 🧠 Pattern Summary
-
-- **Two Pointers** → Pair sum problems, sorted arrays  
-- **Fixed Size Window** → Exact K size subarray problems  
-- **Variable Size Window** → At most / at least condition problems  
-- **Kadane’s Algorithm** → Maximum subarray problems  
-
----
-
-## 🚀 Complexity Focus
-
-Most solutions aim for:
-- **Time Complexity:** O(n)
-- **Space Complexity:** O(1) or O(n) depending on approach
 
 ---
 
