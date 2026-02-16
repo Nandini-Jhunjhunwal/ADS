@@ -28,6 +28,19 @@
 | SplitArray.java | Determines if array can be split into equal sum parts | Prefix Sum | 1013 – Partition Array Into Three Parts With Equal Sum, 416 – Partition Equal Subset Sum |
 
 ---
+# 📘 Day 3 – Binary Search & OOP Concepts
+---
+
+## 📊 Problems Overview
+
+| File Name | What It Does | Pattern Used | Related LeetCode Problems |
+|-----------|-------------|--------------|----------------------------|
+| BinarySearch.java | Searches element in sorted array | Binary Search | 704 – Binary Search, 35 – Search Insert Position |
+| Inherit.java | Demonstrates inheritance concept | OOP | Conceptual Practice |
+| MethodOver.java | Demonstrates method overloading | OOP | Conceptual Practice |
+| OverrideMethod.java | Demonstrates method overriding | OOP | Conceptual Practice |
+
+---
 
 
 > Daily DSA practice focused on mastering problem-solving patterns.
