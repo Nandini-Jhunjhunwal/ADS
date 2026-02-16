@@ -15,4 +15,19 @@
 
 ---
 
+# 📘 Day 2 – Prefix Sum & Array Partitioning
+
+---
+
+## 📊 Problems Overview
+
+| File Name | What It Does | Pattern Used | Related LeetCode Problems |
+|-----------|-------------|--------------|----------------------------|
+| EquilibriumIndex.java | Finds index where left sum equals right sum | Prefix Sum | 724 – Find Pivot Index, 1991 – Find Middle Index |
+| RangeSum.java | Computes range sum efficiently | Prefix Sum | 303 – Range Sum Query Immutable, 304 – Range Sum Query 2D |
+| SplitArray.java | Determines if array can be split into equal sum parts | Prefix Sum | 1013 – Partition Array Into Three Parts With Equal Sum, 416 – Partition Equal Subset Sum |
+
+---
+
+
 > Daily DSA practice focused on mastering problem-solving patterns.
