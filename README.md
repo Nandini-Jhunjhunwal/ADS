@@ -41,6 +41,17 @@
 | OverrideMethod.java | Demonstrates method overriding | OOP | Conceptual Practice |
 
 ---
+# 📘 Day 4 – Kadane Variations & Circular Arrays
+---
+
+## 📊 Problems Overview
+
+| File Name | What It Does | Pattern Used | Related LeetCode Problems |
+|-----------|-------------|--------------|----------------------------|
+| Circular.java | Finds max sum in circular array | Kadane Variant | 918 – Maximum Sum Circular Subarray |
+| Kadane.java | Finds max subarray sum | Kadane’s Algorithm | 53 – Maximum Subarray |
+
+---
 
 
 > Daily DSA practice focused on mastering problem-solving patterns.
