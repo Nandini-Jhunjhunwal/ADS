@@ -52,6 +52,20 @@
 | Kadane.java | Finds max subarray sum | Kadane’s Algorithm | 53 – Maximum Subarray |
 
 ---
+# 📘 Day 5 – Strings & Hashing
+---
 
+## 📊 Problems Overview
+
+| File Name | What It Does | Pattern Used | Related LeetCode Problems |
+|-----------|-------------|--------------|----------------------------|
+| PermutationInString567.java | Checks if permutation exists in string | Sliding Window + Hashing | 567 – Permutation in String |
+| RansomNote383.java | Checks if ransom note can be constructed | Hashing | 383 – Ransom Note |
+| ReverseString344.java | Reverses string | Two Pointers | 344 – Reverse String |
+| ValidAnagram242.java | Checks if strings are anagrams | Hashing | 242 – Valid Anagram |
+| ValidPalindrome125.java | Checks palindrome ignoring non-alphanumeric | Two Pointers | 125 – Valid Palindrome |
+| ValidPalindromeII680.java | Checks palindrome with one deletion allowed | Two Pointers | 680 – Valid Palindrome II |
+
+---
 
 > Daily DSA practice focused on mastering problem-solving patterns.
