@@ -70,3 +70,4 @@
 // lps[3]=2 len=2, i=3
 // lps[4]=333333 len=3, i=4
 
+// these two questions may be same
