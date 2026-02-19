@@ -67,5 +67,16 @@
 | ValidPalindromeII680.java | Checks palindrome with one deletion allowed | Two Pointers | 680 – Valid Palindrome II |
 
 ---
+# 📘 Day 6 – KMP Algorithm & Linked List Math
+---
+
+## 📊 Problems Overview
+
+| File Name | What It Does | Pattern Used | Related LeetCode Problems |
+|-----------|-------------|--------------|----------------------------|
+| LPS.java | Computes Longest Prefix Suffix array for pattern matching | KMP Algorithm | 28 – Find the Index of the First Occurrence in a String, 459 – Repeated Substring Pattern |
+| AddTwoNumbers.java | Adds two numbers represented as linked lists | Linked List Simulation | 2 – Add Two Numbers |
+
+---
 
 > Daily DSA practice focused on mastering problem-solving patterns.
